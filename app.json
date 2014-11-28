@@ -1,0 +1,7 @@
+{
+  "name": "MyApplication",
+  "description": "Blah blah blah",
+  "repository": "https://github.com/gzr7702/MEAN_skeleton",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
